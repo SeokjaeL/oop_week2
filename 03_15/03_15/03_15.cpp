@@ -7,5 +7,7 @@ int main()
 {
     std::cout << "Hello World!\n";
 
+    printf("fdasfsdf\n");
+
     return 0;
 }
